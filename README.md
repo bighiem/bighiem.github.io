@@ -1,5 +1,5 @@
 # bighiem.github.io
-My project portfoloio 
+My project portfolio 
 
 ### 360
 
